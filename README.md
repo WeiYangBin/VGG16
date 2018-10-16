@@ -3,7 +3,7 @@
 
 [VGG paper ](https://arxiv.org/pdf/1409.1556.pdf)
 
-本人基于tensorflow搭了一个的VGG16跑了cifar-10，epoch=30，Accuracy已经有近0.7，只为通过代码更好的理解VGG，有兴趣的话点击下方查看代码[VGG - CIFAR-10](https://github.com/WeiYangBin/Notes-Deep-Learning/blob/master/cifar-10%20-%20VGG.ipynb)
+本人基于tensorflow搭了一个的VGG16跑了cifar-10，epoch=30，Accuracy已经有近0.7，只为通过代码更好的理解VGG，有兴趣的话点击下方查看代码[VGG - CIFAR-10](https://github.com/WeiYangBin/VGG16/blob/master/VGG16.ipynb)
 
 看过CNN看VGG给人的感觉还是比较容易理解，比较起CNN我认为主要在两个方面有了变化，一个是层数变深，另一个变化就是比起CNN的7 * 7, 11 * 11,VGG全部用的都是3 * 3的filter/kernel
 
