@@ -1,5 +1,5 @@
 ## <center>VGG</center>
-###### <center>2018, OCT 15</center>
+###### <center>2018, OCT 16</center>
 
 [VGG paper ](https://arxiv.org/pdf/1409.1556.pdf)
 
