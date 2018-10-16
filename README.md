@@ -9,9 +9,13 @@
 
 看完paper会发现作者举了从A,B,C一直到E的六种网络架构,越来越deep，因为用的比较多的还是VGG16和VGG19 (这里的16和19代表的是层数)，然后又因为VGG16和VGG19的accuracy差的不会太多，所以这篇文章主要谈的是VGG16
 
-paper中的图片是这样的![image](https://note.youdao.com/favicon.ico)
+paper中的图片是这样的
 
-换一种角度来看可能会更容易理解![image](https://note.youdao.com/favicon.ico)
+![image](https://github.com/WeiYangBin/Notes-Deep-Learning/blob/master/Picture/VGG%E6%9E%B6%E6%9E%84.png)
+
+换一种角度来看可能会更容易理解
+
+![image](https://github.com/WeiYangBin/Notes-Deep-Learning/blob/master/Picture/VGG.jpg)
 
 ##### Step1:
 
